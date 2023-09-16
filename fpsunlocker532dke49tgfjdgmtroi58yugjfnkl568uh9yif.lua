@@ -4,7 +4,7 @@
 -------------------------ALL RIGHTS RESERVED-----------------------------
 -------------------------------------------------------------------------
 print("JikUy AT GITHUB")
-print("GGsKick, 0fantastc MADE THIS")
+print("GGsKick, 0fantastc, Inductian MADE THIS")
 print("FPS UNLOCKER LOADED")
 
 
